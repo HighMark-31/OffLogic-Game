@@ -103,13 +103,3 @@ Addictive? Way more than it should be.
 
 Part of the **#TRAEMiniHackathon**, under the theme:
 **“Dumb Ways to Win – Create unconventional or silly winning mechanics.”**
-
----
-
-## 🔮 **Future Features**
-
-* Competitive leaderboard
-* “Chaos difficulty” mode
-* Multiplayer sabotage rounds
-
-Dimmi tu e preparo tutto.
