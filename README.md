@@ -85,7 +85,9 @@ Without TRAE, achieving this level of fluidity, unpredictability, and polish wou
 
 ## 📸 **Preview**
 
-https://github.com/user-attachments/assets/1917022d-c555-4046-853c-e32f3fcb1abe
+
+https://github.com/user-attachments/assets/33d7e6e9-f7e2-4a89-91bc-89f171c827be
+
 <img width="1907" height="904" alt="image" src="https://github.com/user-attachments/assets/139b4b88-34d2-4fc5-ae21-fd6e6fd732dc" />
 <img width="1196" height="669" alt="image" src="https://github.com/user-attachments/assets/d308e0d4-c19b-48f0-9af3-74b71f8a340f" />
 <img width="1140" height="652" alt="image" src="https://github.com/user-attachments/assets/1f9e66ab-2ebb-4059-8e21-6912a8721824" />
