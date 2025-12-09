@@ -10,6 +10,13 @@ the pattern changes.
 
 ---
 
+## **NOW Try the Game**
+
+**Live Demo:** [https://offlogic.game](https://offlogic-game.mylaby.space)
+**Repository:** [https://github.com/you/offlogic-game](https://github.com/HighMark-31/OffLogic-Game) 
+
+---
+
 ## **What Is OffLogic Game?**
 
 OffLogic Game is a chaotic, web-based mini-game powered by AI-generated instructions.
@@ -92,10 +99,7 @@ Addictive? Way more than it should be.
 * **Game Engine:** Custom micro-engine based on event traps & logic inversion layers
 ---
 
-## **Try the Game**
 
-**Live Demo:** [https://offlogic.game](https://offlogic-game.mylaby.space)
-**Repository:** [https://github.com/you/offlogic-game](https://github.com/HighMark-31/OffLogic-Game) 
 
 ---
 
