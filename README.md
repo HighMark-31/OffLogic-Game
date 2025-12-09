@@ -71,8 +71,8 @@ Success = embracing uncertainty.
 
 ## 📸 **Demo Preview**
 
-Coming
-
+https://offlogic-game.mylaby.space/
+Photo and video coming
 ---
 
 ## 🏆 **Why It Fits “Dumb Ways to Win”**
@@ -88,8 +88,7 @@ Addictive? Way more than it should be.
 
 ## **Tech Stack**
 
-* **Frontend:** Coming...
-* **AI Integration:** TRAE for dynamic instruction generation
+* **Frontend:** React & TailwindCSS
 * **Game Engine:** Custom micro-engine based on event traps & logic inversion layers
 ---
 
