@@ -16,8 +16,8 @@ Just when you think you’ve mastered it… it changes. ⚡
 
 **Live Demo:** [https://offlogic.game](https://offlogic-game.mylaby.space)
 
-**Repository:** [Modern Edition by Mark](https://github.com/HighMark-31/OffLogic-Game)
-**Repository:** [Vintage Edition by Roman](https://github.com/roman-ryzenadvanced/Custom-Engineered-Agents-and-Tools-for-Vibe-Coders/tree/main/vibecoding-games)
+* **Repository:** [Modern Edition by Mark](https://github.com/HighMark-31/OffLogic-Game)
+* **Repository:** [Vintage Edition by Roman](https://github.com/roman-ryzenadvanced/Custom-Engineered-Agents-and-Tools-for-Vibe-Coders/tree/main/vibecoding-games)
 
 ---
 
