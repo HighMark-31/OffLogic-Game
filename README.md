@@ -8,11 +8,9 @@ Every click, every choice, every instinct… is up for a chaotic twist.
 Just when you think you’ve mastered it… it changes. ⚡
 
 ---
-<p align="center">
-  <img width="48%" src="https://github.com/user-attachments/assets/598308b5-9eda-444b-a1fc-d0e4d12d6489" alt="Modern Version" />
-  &nbsp;
-  <img width="48%" src="assets/offlogic_vintage.png" alt="Vintage Version" />
-</p>
+| **Modern Theme** | **Vintage Theme** |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/598308b5-9eda-444b-a1fc-d0e4d12d6489" height="300" alt="Modern Version" /> | <img src="assets/offlogic_vintage.png" height="300" alt="Vintage Version" /> |
 
 ---
 
