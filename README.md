@@ -121,7 +121,7 @@ It’s chaotic, hilarious, and addictive — the ultimate inversion of tradition
 ## **Team**
 
 * **[HighMark](https://highmark.it/)** – Modern Theme & frontend logic
-* **[Roman](https://gitlab.com/ryzenadvanced/ultimate-custom-engineered-coding-agents-trae-ai-glm-4-6-vibe-coding-lab/-/blob/master/README.md)** – Vintage Theme & terminal experience
+* **[Roman](https://github.com/roman-ryzenadvanced/Custom-Engineered-Agents-and-Tools-for-Vibe-Coders)** – Vintage Theme & terminal experience
 
 ---
 
