@@ -8,7 +8,10 @@ Every click, every choice, every instinct… is up for a chaotic twist.
 Just when you think you’ve mastered it… it changes. ⚡
 
 ---
-<img width="1107" height="623" alt="image" src="https://github.com/user-attachments/assets/598308b5-9eda-444b-a1fc-d0e4d12d6489" />
+<div style="display: flex; gap: 10px;">
+  <img height="623" alt="Modern Version" src="https://github.com/user-attachments/assets/598308b5-9eda-444b-a1fc-d0e4d12d6489" />
+  <img height="623" alt="Vintage Version" src="assets/offlogic_vintage.png" />
+</div>
 
 ---
 
